@@ -54,14 +54,14 @@ li {
     float:left;
 }
 #date1 {
-    float:right;
+    text-align:right;
 }
 #date2 {
-    float:right;
+    text-align:right;
 }
 #date3 {
-    float:right;
+    text-align:right;
 }
 #date4 {
-    float :right;
+    text-align:right;
 }
